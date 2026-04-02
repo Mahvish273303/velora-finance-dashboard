@@ -2,13 +2,18 @@
 
 Velora is a modern fintech dashboard web application designed to help users track financial activity, analyze spending behavior, and manage transactions through a clean, premium SaaS-style interface.
 
-This project focuses on frontend architecture, UI/UX excellence, and product thinking without backend complexity.
+This project demonstrates strong frontend engineering, product thinking, and polished UI/UX execution without backend complexity.
 
 ---
 
 ## 🔗 Live Demo
 
-👉 https://your-vercel-link.vercel.app
+🌐 https://velora-finance-dashboard.vercel.app/
+
+Explore:
+- Dashboard → `/`
+- Transactions → `/transactions`
+- Insights → `/insights`
 
 ---
 
@@ -62,16 +67,16 @@ It simulates real-world fintech features while maintaining a lightweight and eff
 
 ---
 
-## Live Links
+## 📸 Screenshots
 
 ### Dashboard View
-![Dashboard View](https://velora-finance-dashboard.vercel.app/)
+![Dashboard View](./screenshots/dashboard-view.png)
 
 ### Transactions Page
-![Transactions Page](https://velora-finance-dashboard.vercel.app/transactions)
+![Transactions Page](./screenshots/transactions-page.png)
 
 ### Insights Page
-![Insights Page](https://velora-finance-dashboard.vercel.app/insights)
+![Insights Page](./screenshots/insights-page.png)
 
 ---
 
