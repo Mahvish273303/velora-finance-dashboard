@@ -62,16 +62,16 @@ It simulates real-world fintech features while maintaining a lightweight and eff
 
 ---
 
-## 📸 Screenshots
+## Live Links
 
 ### Dashboard View
-![Dashboard View](./screenshots/dashboard-view.png)
+![Dashboard View](https://velora-finance-dashboard.vercel.app/)
 
 ### Transactions Page
-![Transactions Page](./screenshots/transactions-page.png)
+![Transactions Page](https://velora-finance-dashboard.vercel.app/transactions)
 
 ### Insights Page
-![Insights Page](./screenshots/insights-page.png)
+![Insights Page](https://velora-finance-dashboard.vercel.app/insights)
 
 ---
 
