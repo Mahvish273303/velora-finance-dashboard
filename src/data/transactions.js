@@ -1,0 +1,17 @@
+export const initialTransactions = [
+  { id: 'tx-1', date: '2026-01-02', amount: 4200, category: 'Salary', type: 'income' },
+  { id: 'tx-2', date: '2026-01-04', amount: 56, category: 'Food', type: 'expense' },
+  { id: 'tx-3', date: '2026-01-08', amount: 120, category: 'Travel', type: 'expense' },
+  { id: 'tx-4', date: '2026-01-12', amount: 85, category: 'Shopping', type: 'expense' },
+  { id: 'tx-5', date: '2026-01-16', amount: 250, category: 'Freelance', type: 'income' },
+  { id: 'tx-6', date: '2026-02-02', amount: 4200, category: 'Salary', type: 'income' },
+  { id: 'tx-7', date: '2026-02-03', amount: 68, category: 'Food', type: 'expense' },
+  { id: 'tx-8', date: '2026-02-09', amount: 310, category: 'Utilities', type: 'expense' },
+  { id: 'tx-9', date: '2026-02-15', amount: 142, category: 'Travel', type: 'expense' },
+  { id: 'tx-10', date: '2026-02-19', amount: 480, category: 'Bonus', type: 'income' },
+  { id: 'tx-11', date: '2026-03-01', amount: 4200, category: 'Salary', type: 'income' },
+  { id: 'tx-12', date: '2026-03-05', amount: 92, category: 'Food', type: 'expense' },
+  { id: 'tx-13', date: '2026-03-13', amount: 230, category: 'Shopping', type: 'expense' },
+  { id: 'tx-14', date: '2026-03-21', amount: 160, category: 'Health', type: 'expense' },
+  { id: 'tx-15', date: '2026-03-28', amount: 540, category: 'Freelance', type: 'income' },
+]
